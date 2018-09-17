@@ -1,3 +1,5 @@
+Original at [https://github.com/udacity/deep-reinforcement-learning/tree/master/temporal-difference]
+
 # Temporal-Difference Methods
 
 ### Instructions
